@@ -1,5 +1,5 @@
 Pod::Spec.new do |spec|
-  spec.name          = 'Gigya'
+  spec.name          = 'Gigya-local'
   spec.version       = '1.5.1'
   spec.license       = 'Apache 2.0'
   spec.homepage      = 'https://developers.gigya.com/display/GD/Swift+SDK'
